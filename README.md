@@ -11,7 +11,7 @@ This was an exercise to understand the doom network protocol and how to write a 
 
 ## Requirements
 
-Tested with Wireshark 3.2.7 and Chocolate Doom 3.0.0.
+Tested with Wireshark 3.2.7 and Chocolate Doom 3.0.0 and Crispy Doom 5.9.2.
 
 ## Install instructions
 
